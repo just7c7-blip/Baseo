@@ -1,5 +1,20 @@
 {
-  "ABC111": { "type": "day" },
-  "WEEK222": { "type": "week" },
-  "MONTH333": { "type": "month" }
+  "ABC111": {
+    "type": "day",
+    "device_id": "",
+    "start": "",
+    "expires": ""
+  },
+  "WEEK222": {
+    "type": "week",
+    "device_id": "",
+    "start": "",
+    "expires": ""
+  },
+  "MONTH333": {
+    "type": "month",
+    "device_id": "",
+    "start": "",
+    "expires": ""
+  }
 }

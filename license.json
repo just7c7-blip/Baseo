@@ -1,0 +1,22 @@
+{
+  "ABC111": {
+    "type": "day",
+    "device_id": null
+  },
+  "WEEK222": {
+    "type": "week",
+    "device_id": null
+  },
+  "MONTH333": {
+    "type": "month",
+    "device_id": null
+  },
+  "VIP999": {
+    "type": "month",
+    "device_id": null
+  },
+  "FREE123": {
+    "type": "day",
+    "device_id": null
+  }
+}

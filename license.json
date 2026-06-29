@@ -1,6 +1,5 @@
 {
-  "key": "ABC111",
-  "device_id": "LOCAL_DEVICE_HASH",
-  "start": "2026-06-29T20:00:00",
-  "days": 7
+  "ABC111": { "type": "day" },
+  "WEEK222": { "type": "week" },
+  "MONTH333": { "type": "month" }
 }

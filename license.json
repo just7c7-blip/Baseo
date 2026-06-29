@@ -1,22 +1,6 @@
 {
-  "ABC111": {
-    "type": "day",
-    "device_id": null
-  },
-  "WEEK222": {
-    "type": "week",
-    "device_id": null
-  },
-  "MONTH333": {
-    "type": "month",
-    "device_id": null
-  },
-  "VIP999": {
-    "type": "month",
-    "device_id": null
-  },
-  "FREE123": {
-    "type": "day",
-    "device_id": null
-  }
+  "key": "ABC111",
+  "device_id": "LOCAL_DEVICE_HASH",
+  "start": "2026-06-29T20:00:00",
+  "days": 7
 }
